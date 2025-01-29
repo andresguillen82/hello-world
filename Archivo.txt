@@ -2,4 +2,4 @@ Prueba de commit
 
 He introducido varias lineas
 para demostrar como se visualizan los cambios
-en GitHub
+en GitHub. Continúo escbribiendo para modificar lo anterior
